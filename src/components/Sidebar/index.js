@@ -1,7 +1,4 @@
 import "./index.scss";
-import LogoS from "../../assets/images/logo-s.png";
-import codechefLogo from "../../assets/images/codechef.png";
-import LogoSubtitle from "../../assets/images/Sudip_logo_white.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 import {
