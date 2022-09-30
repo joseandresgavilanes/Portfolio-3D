@@ -120,7 +120,7 @@ const Contact = () => {
           </div>
         </div>
         <div className="info-map">
-          Jose Andres
+          Jose Andres lives in
           <br />
           Ambato, <br />
           Tungurahua, <br />
