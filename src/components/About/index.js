@@ -38,14 +38,14 @@ const About = () => {
             />
           </h1>
           <p>
-            Hello World! I am Pepe, an 18 years old leader who is always open to
+            Hello World! I am Pepe, an 19 years old leader who is always open to
             new opportunities to exploit his potential and work with a great
             purpose in mind, helping millions of people and seeking greatness in
             everything he does.
           </p>
           <p>
             Since I was a child I have been passionate about how technology can
-            change people's lives, in my case it all started when I was 7 years
+            change people's lives, in my case it all started when I was 9 years
             old, disassembling my electronic toys, and has progressed until I
             became the person I am, who is passionate about learning new things
             daily and leaving the world better than he found it.
