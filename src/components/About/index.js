@@ -51,7 +51,7 @@ const About = () => {
             daily and leaving the world better than he found it.
           </p>
           <p>
-            I have 6 years of experience leading teams and working with them to
+            I am a Scout and I have 7 years of experience leading teams and working with them to
             achieve the craziest goals.
           </p>
         </div>
