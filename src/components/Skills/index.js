@@ -36,7 +36,7 @@ const Skills = () => {
             benefits humanity.
           </p>
           <p>
-            i am looking for a role in a company with the opportunity to work
+            I look for roles in places with the opportunity to work
             with the latest technologies on challenging and diverse projects.
           </p>
         </div>
